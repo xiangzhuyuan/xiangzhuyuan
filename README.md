@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [twitter](twitter.com/xiangzhuyuan)
 
 
-[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=xiangzhyuaun)](https://github.com/anuraghazra/github-readme-stats)
+[![Matt's github stats](https://github-readme-stats.vercel.app/api?username=xiangzhuyuan)](https://github.com/anuraghazra/github-readme-stats)
